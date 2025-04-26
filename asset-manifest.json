@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pass-generate/static/css/main.4e8de14a.css",
-    "main.js": "/Pass-generate/static/js/main.b96159f6.js",
-    "static/js/453.2a7d545f.chunk.js": "/Pass-generate/static/js/453.2a7d545f.chunk.js",
-    "index.html": "/Pass-generate/index.html",
-    "main.4e8de14a.css.map": "/Pass-generate/static/css/main.4e8de14a.css.map",
-    "main.b96159f6.js.map": "/Pass-generate/static/js/main.b96159f6.js.map",
-    "453.2a7d545f.chunk.js.map": "/Pass-generate/static/js/453.2a7d545f.chunk.js.map"
+    "main.css": "/Password-Generator/static/css/main.4e8de14a.css",
+    "main.js": "/Password-Generator/static/js/main.b7d034e5.js",
+    "static/js/453.2a7d545f.chunk.js": "/Password-Generator/static/js/453.2a7d545f.chunk.js",
+    "index.html": "/Password-Generator/index.html",
+    "main.4e8de14a.css.map": "/Password-Generator/static/css/main.4e8de14a.css.map",
+    "main.b7d034e5.js.map": "/Password-Generator/static/js/main.b7d034e5.js.map",
+    "453.2a7d545f.chunk.js.map": "/Password-Generator/static/js/453.2a7d545f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e8de14a.css",
-    "static/js/main.b96159f6.js"
+    "static/js/main.b7d034e5.js"
   ]
 }
